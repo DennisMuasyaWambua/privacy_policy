@@ -1,4 +1,4 @@
-**ARRONAX MEDIA TERMS AND CONDITIONS  **
+#ARRONAX MEDIA TERMS AND CONDITIONS  
 
 These Arronax Media service terms and conditions apply to the use of the Arronax Media service. Please read these terms and conditions carefully. 
 
