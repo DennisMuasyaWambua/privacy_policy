@@ -1,4 +1,4 @@
-ARRONAX MEDIA TERMS AND CONDITIONS  
+**ARRONAX MEDIA TERMS AND CONDITIONS  **
 
 These Arronax Media service terms and conditions apply to the use of the Arronax Media service. Please read these terms and conditions carefully. 
 
@@ -14,7 +14,7 @@ By agreeing to these Arronax Media Terms, you also agree to be bound by the prov
 
 You are not entitled to use to make any use of the Arronax Media Service or the Content if you do not agree to these Arronax Media Terms. If you make any use of the Arronax Media Service or the Content, this will mean that you agree to these Arronax Media Terms. If you do not agree to these Arronax Media Terms, you must immediately stop using the Arronax Media Service and the Content. 
 
-Changes to the Arronax Media Terms 
+**Changes to the Arronax Media Terms **
 
 We may, at any time, change these Arronax Media Terms. 
 
@@ -24,7 +24,7 @@ If you are not a Subscriber, all changes to these Arronax Media Terms will take 
 
 If you do not agree with any changes to these Arronax Media Terms, you must end your use of the Arronax Media Service in the way set out in clause 14 below. 
 
-Who may use the Arronax Media Service? 
+**Who may use the Arronax Media Service? **
 
 You may only use the Arronax Media Service if you comply with these Arronax Media Terms and: 
 
@@ -43,8 +43,8 @@ If the Authorised User is younger than 18 years of age, than the Authorised User
 We reserve the right to refuse to let you register or use the Arronax Media Service at our sole discretion. We may do this even if you complete the registration process and agree to these Arronax Media Terms. 
 
 We are in no way obliged to give reasons if we do not let you register or use the Arronax Media Service. 
-
-Your information and details 
+**
+Your information and details** 
 
 All information supplied to us must be truthful, accurate and complete. This also includes the information that we request you to provide in the registration process and at any time after that. 
 
@@ -70,7 +70,7 @@ You must notify us immediately by sending us an email at support@arronax.co.ke i
 
 We will not be responsible for any loss or damage you may suffer if any other person uses your password, or your user credentials, or your payment information or payment details without your approval or consent. 
 
-Access Devices and other equipment and facilities 
+**Access Devices and other equipment and facilities **
 
 You are only entitled to make lawful use of the Arronax Media Service and stream or download the Content through the methods permitted and intended by us, which may include through the use of the Arronax Media Website, or through the use of the Arronax Media App on a registered Access Device. 
 
@@ -92,7 +92,7 @@ We make no warranties or representations about the quality of your viewing exper
 
  
 
-Permitted use and what you are not allowed to do 
+**Permitted use and what you are not allowed to do **
 
 The Arronax Media Service may only be used by you in a lawful manner in the way that we specifically intended and for your personal and non-commercial purposes (the "Permitted Use"). 
 
@@ -138,7 +138,7 @@ These Arronax Media Terms and any restrictions on the use of the Arronax Media S
 
 We may use Technology and other means to monitor that you are complying with these Arronax Media Terms. 
 
-Content restrictions, changes to Content and the Arronax Media Service 
+**Content restrictions, changes to Content and the Arronax Media Service **
 
 It is your responsibility to satisfy your watching preferences, make sure prior to accessing the Content, that the Content meets your individual requirements. 
 
@@ -172,13 +172,13 @@ You must not attempt to access restricted Content.
 
 We reserve the right to implement Technologies, including geo-blocking technology. This includes any Technology that is able to limit, restrict or block any access and/or use by a person of any Content, product or service based on the geographical location of that person, and other measures in order to verify your geographic location and monitor that you are not accessing restricted Content from restricted geographic locations. 
 
-9.	Arronax Media Kids Program, Parental Control and supervision of users 
+ 
 
-Subscription period 
+**Subscription period **
 
 An Arronax Media Service Subscription will commence when the Subscriber registers to use the Arronax Media Service, set at least one payment instrument (e.g. credit card, voucher or agreement with telecommunications operator) and we accept the registration. The subscription and this agreement will continue thereafter on a month-to-month basis until it is ended by the Subscriber or us in one of the ways set out in these Arronax Media Terms. 
 
-Free trial terms and conditions 
+**Free trial terms and conditions **
 
 We may sometimes allow the Subscriber to end the subscription to use the Arronax Media Service within a period of 14 days after the Subscriber registers (or such other period we may specify upon registration) and we will not charge the Subscriber for use of the Arronax Media Service during this time ("Free Trial"). If we give a Subscriber a Free Trial and the Subscriber does not cancel the subscription before the end of the Free Trial period, the Subscriber will be required to pay the Monthly Fee and the subscription will continue on a month-to-month basis until we or the Subscriber end this agreement in the way set out in clause 16 (see clause 10 for more information on the Monthly Fee). 
 
@@ -187,8 +187,8 @@ Free Trials are strictly reserved for first-time Subscribers. You will not quali
 We reserve the right, at our sole discretion, to determine whether you are entitled to a Free Trial. 
 
 If the Subscriber cancels the subscription before the end of the Free Trial, you will continue to have access to the Arronax Media Service for the remainder of the Free Trial period. 
-
-Payment and Billing 
+**
+Payment and Billing **
 
 Monthly subscription fees 
 
@@ -228,7 +228,7 @@ Where the Subscriber does not agree to the adjusted Monthly Fee, the Subscriber 
 
 Payment Method 
 
-If you are a Subscriber: 
+**If you are a Subscriber: **
 
 By registering for the Arronax Media Service and providing your designated Payment Method or Payment Details, you authorise us to charge you the Monthly Fee at the then current rate, and any other charges you may incur through the use of the Arronax Media Service to your Payment Details and Payment Method. 
 
@@ -247,22 +247,22 @@ If a payment is not successfully made or collected, due to expiration, insuffici
 We are not responsible for any acts, failures, delays or omissions on the part of any third party, bank, payment aggregators, or payment facilities providers. You will be responsible for the acts, failures, delays or omissions on the part of any third party, bank, payment aggregators, or payment facilities providers, including those responsible for your Payment Method or for paying us. 
 
 We will notify you if payment is unsuccessful and if we are unable to collect payment from your Payment Details or using your Payment Method. We may suspend your subscription to the Arronax Media Service if we are unable to collect payment successfully, as set out in clause 12. Even if we suspend your subscription, you will still be responsible for all uncollected amounts which are due to us for the time that you continued to be a subscriber to the Arronax Media Service. 
-
-Vouchers and promotions 
+**
+Vouchers and promotions **
 
 We may, in our sole discretion, offer vouchers ourselves or through our business arrangements with third parties ("promotional or voucher partners"), to selected Subscribers which enable Subscribers to access the Arronax Media Service for a discounted rate subject to our terms and conditions and that of our promotional or voucher partners (as the case may be). Should this be applicable to you, please take note of these additional terms and conditions of the promotional and voucher partners. The terms and conditions relating to such vouchers and Arronax Media will be disclosed on the Arronax Media Website or in other communications made available to you. 
 
 Should you subscribe to Arronax Media with a voucher at any time and should the period of use therein expire, you will thereafter be billed in accordance with these terms and conditions with the payment details you provided us. 
 
 We may also introduce a number of different subscription plans or options, including special promotional plans with different conditions and limitations. Any materially different terms from those described in these Arronax Media Terms will be disclosed on the Arronax Media Website or in other communications made available to you. 
-
-Refunds 
+**
+Refunds **
 
 As far as the law allows, payment of the Monthly Fee or per title fee is not refundable and we will not refund or credit you for partially used monthly Subscription Periods. 
 
 If you wish to end your subscription, you must do this in the way set out in clause 16.1. 
 
-We may suspend the Arronax Media Service or your use of the Arronax Media Service 
+**We may suspend the Arronax Media Service or your use of the Arronax Media Service **
 
 We may temporarily suspend part or all of the Arronax Media Service, the operation of the Arronax Media Website, or your use of the Arronax Media Service or your Arronax Media Account, in any one or more of these circumstances: 
 
@@ -286,7 +286,7 @@ The suspension will continue for so long as we reasonably believe is appropriate
 
 We will notify you if we suspend part or all of the Arronax Media Service or your use of the Arronax Media Service or your Arronax Media Account, where it is reasonably practical to do so. 
 
-We can suspend the Arronax Media Service in the event of non-payment 
+**We can suspend the Arronax Media Service in the event of non-payment **
 
 We may temporarily suspend part or all of the Arronax Media Service, or your use of the Arronax Media Service or your Arronax Media Account if you fail to pay us on time or if we are unable to collect payment from your Payment Details or through your Payment Method. 
 
@@ -300,7 +300,7 @@ you wish to end your subscription to the Arronax Media Service as set out in cla
 
 you wish to reactivate your subscription to the Arronax Media Service and Arronax Media Account which was previously suspended. 
 
-Ending this agreement 
+**Ending this agreement **
 
 How you may end your use of the Arronax Media Service 
 
@@ -316,7 +316,7 @@ If you are using a third party as a Payment Method and wish to cancel your subsc
 
 If you are an Authorised User, you may end this agreement between you and Arronax Media by no longer using the Arronax Media Service. 
 
-How we may end this agreement 
+**How we may end this agreement **
 
 We reserve the right at any time and for any reason to terminate our agreement with you, or your subscription to the Arronax Media Service, or the operation or availability of the Arronax Media Service, or your right to use the Arronax Media Service or any part thereof. If we do this and you are a Subscriber, we will give you 30 calendar days prior written notice (unless the termination is required by law or it is reasonable in the circumstances to give shorter notice). 
 
@@ -338,7 +338,7 @@ where a court or regulator tells us to do this; or
 
 if any provision of these Arronax Media Terms, or part of a provision, becomes unenforceable, illegal or invalid. 
 
-Consequences of termination 
+**Consequences of termination **
 
 Consequences if you end this agreement 
 
@@ -366,7 +366,7 @@ the provisions of clause 15; and
 
 any other terms and conditions in the Arronax Media Terms which are expressly stated to survive or continue after the end of this agreement, or after the end of any part of this agreement. 
 
-Intellectual property 
+**Intellectual property **
 
 You acknowledge that the Content made available to you through the Arronax Media Service is owned by, or licensed to, us and is protected by laws, including intellectual property law. 
 
@@ -380,13 +380,13 @@ You will not, at any time, acquire any rights, title, ownership or interest, inc
 
 Where any of the Content has been licensed to us or belongs to any third party, your rights of use will also be subject to any terms and conditions which that licensor or third party imposes from time to time and you agree to comply with such third party terms and conditions. 
 
-Disclaimer and exclusion of warranties 
+**Disclaimer and exclusion of warranties **
 
 As far as the law allows, the Arronax Media Service, Arronax Media App and Content are provided on an "as is" basis and without any representation or warranty whatsoever, whether express, implied or statutory (including any implied warranties of reliability, fitness for any particular purpose, or exclusion of errors or inaccuracies). 
 
 As far as the law allows, we make no representations and give no warranties that the Arronax Media Service or Content will be tailored to meet your personal requirements or expectations, be available and accessible at all times, be uninterrupted, error free, secure, or free from Destructive Code. 
 
-Limits to our liability 
+**Limits to our liability **
 
 As far as the law allows, we and our affiliates will not be responsible to you (and we hereby disclaim all liability) for any loss, liability, injury or damage (whether direct, indirect, incidental, special, punitive or consequential) whatsoever resulting from any: 
 
@@ -402,7 +402,7 @@ any Destructive Code which may be transmitted to or through the Arronax Media Ap
 
 The provisions of clause 17.1 apply irrespective of whether any claim you or others make, or any loss, liability, injury or damage suffered, is based on warranty, contract, delict or any other legal theory, and whether or not we have been advised of the possibility of such damages. 
 
-Indemnity 
+**Indemnity **
 
 As far as the law allows, you hereby irrevocably indemnify us and our affiliates and agree to hold us, our affiliates and our suppliers harmless against any loss, liability, costs, and damages which we or they may suffer as a result of: 
 
@@ -413,8 +413,8 @@ you performing a Prohibited Act;
 you failing to comply with these Arronax Media Terms; and/or 
 
 any deliberate or unlawful act that you commit or a failure to act. 
-
-Notices and communication 
+**
+Notices and communication **
 
 Any notices sent to us under these Arronax Media Terms, including legal notices, must be delivered to us by hand or registered post at the Arronax Media offices at Senteu Plaza, 6th floor; Corner of Lenana Road and Galana Road, addressed to Arronax Systems Ltd. 
 
@@ -440,7 +440,7 @@ You may not unsubscribe to receive notices from us regarding the above informati
 
 All notices given by us to a Subscriber shall be treated as having been given, and be deemed to have also been given, to the Authorised Users that access or use the Arronax Media Service through the Subscriber's Arronax Media Account. All notices given by us to an Authorised User shall also be treated as having been given, and be deemed to have also been given, to the Subscriber whose Arronax Media Account the Authorised User makes use of. The Subscriber and Authorised Users must immediately make each other aware of notices which may be received from us. 
 
-References and links to and from other web sites, products and services 
+**References and links to and from other web sites, products and services **
 
 The Arronax Media App and the Arronax Media Website may include access to products and services provided by third parties. Such products and/or services may be provided directly or via links to the third parties. We shall, where reasonable, classify the products and/or services as third party products or services. Notwithstanding that the products and/or services may be co-branded, you acknowledge that the agreement for the provision of such third party product or service is between you and the relevant third party and we shall not be party to such agreement. Further, we shall not be liable for any act or omission of the third party, nor the provision of the products or services by the third party to you. 
 
@@ -450,7 +450,7 @@ To the fullest extent allowed by law, we are not responsible to you for any loss
 
 You may not make (and you may not allow any third party to make) any reference to us, the Arronax Media Service, the Arronax Media App or the Content, whether by way of a link or otherwise, where the reference could in any way be interpreted as an endorsement, affiliation, or recommendation by us in relation to you or a third party, or of your services, products, opinions or conduct or those of a third party. 
 
-Miscellaneous provisions 
+**Miscellaneous provisions** 
 
 These Arronax Media Terms, and any rights, obligations and licenses granted hereunder, may not be transferred, ceded, delegated or assigned by you. 
 
